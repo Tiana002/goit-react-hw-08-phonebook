@@ -3,7 +3,7 @@ import { AppBar } from '../AppBar/AppBar';
 import { Suspense } from 'react';
 import { Container } from './Layout.styled';
 import { Toaster } from 'react-hot-toast';
-import { GlobalStyle } from '../GlobalStyle';
+import { GlobalStyle } from '../GlobalStyle/GlobalStyle';
 
 export const Layout = () => {
   return (

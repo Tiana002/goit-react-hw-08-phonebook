@@ -11,6 +11,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.4.0",
     "formik": "^2.4.1",
+    "memfs": "^4.2.0",
     "modern-normalize": "^2.0.0",
     "nanoid": "^4.0.2",
     "notiflix": "^3.2.6",

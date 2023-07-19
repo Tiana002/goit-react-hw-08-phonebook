@@ -12,8 +12,15 @@ export const Item = styled.li`
   padding: 5px;
 `;
 export const Button = styled.button`
+  font-size: 12px;
   padding: 5px;
-  background-color: #0a47b7;
+  /* background-color: #0a47b7; */
+  background-color: rgb(35, 76, 87);
+  color: white;
+  border-radius: 12px;
+  /* box-shadow: 2px 3px 5px 0px rgba(212,19,212,1); */
+  box-shadow: rgb(103 56 234) 2px 3px 5px 0px;
+  border: none;
 
   :hover {
     background-color: #00158e;

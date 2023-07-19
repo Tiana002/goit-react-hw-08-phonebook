@@ -1,5 +1,5 @@
 import React from 'react';
-import videoBg from '../../soil/videoBg.mp4';
+import videoBg from '../../soil/letter.mp4';
 import { Video } from './VideoBg.styled';
 
 export const BackgroundVideo = () => {

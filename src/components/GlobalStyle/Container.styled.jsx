@@ -10,6 +10,6 @@ export const Container = styled.main`
   max-width: 768px;
   border-radius: 20px;
 
-  background-color: #1a202c89;
+  background-color: rgb(26 32 44 / 5%);
   backdrop-filter: blur(5px);
 `;

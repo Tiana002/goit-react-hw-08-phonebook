@@ -5,9 +5,11 @@ export default function Home() {
   return (
     <Container>
       <Title>
-        Hello, this is your PhoneBook. It is designed to help your brain not
-        remember numbers, but write them down. Create your own unique account
-        and get the opportunity to record your contacts.
+      Here it is your very own PhoneBook. Just write
+       down the numbers that you need and you don’t need
+        to memorize them! Make sure to create your very 
+        own account to save the numbers you need to keep
+         and you are good to go!
       </Title>
     </Container>
   );
